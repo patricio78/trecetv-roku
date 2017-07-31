@@ -1,0 +1,9 @@
+title=El Trece TV
+subtitle=Canal 13 - El trece TV - Argentina
+mm_icon_focus_hd=pkg:/images/mm-icon-focus-hd.jpg
+mm_icon_side_hd=pkg:/images/mm-icon-side-hd.gif
+mm_icon_focus_sd=pkg:/images/mm-icon-focus-sd.jpg
+mm_icon_side_sd=pkg:/images/mm-icon-side-sd.gif
+major_version=1
+minor_version=0
+build_version=00000
