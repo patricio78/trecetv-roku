@@ -67,7 +67,8 @@ Sub Setup() As Object
     this.player.SetDestinationRect({ x:0, y:0, w:0, h:0 })
     this.player.AddHeader("User-Agent", "Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10")
     this.player.SetContentList([{
-        Stream: { url: "http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/Playlist.m3u8" }
+        ' Stream: { url: "http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/Playlist.m3u8" }
+        Stream: { url: "https://58ee6ee476b11.streamlock.net/transcode/ngrp:canal10_all/chunklist_w705412730_b1596000.m3u8" }
         StreamFormat: "hls"
         SwitchingStrategy: "full-adaptation"
     }])
